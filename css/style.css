@@ -1,0 +1,81 @@
+h1{
+	color: darkred;
+	font-family: Lucida Console;
+}
+h2{
+	border-bottom: double darkred;
+	font-family:Lucida Handwriting;
+	margin-left: 30px;
+	color: green;
+}
+.i1{
+	margin-left:1430px;
+}
+.th1{
+	text-align:left;
+}
+body{
+	background-color: aliceblue;
+}
+.titre{
+	color: azure;
+	background-color: darkred;
+	text-align: center;
+	font-family: cursive;
+}
+.th2{
+	margin-left: 80px;
+
+}
+.th3{
+	font-style: italic;
+}
+.th2_1{
+	font-weight: bold;
+}
+.x{
+	text-align: left;
+
+}
+.x2{
+	text-align: left;
+
+}
+.emo1{
+	color: yellow;
+font-size: 35px;
+}
+.emo2{
+	color: pink;
+	font-size: 35px;
+}
+.emo3{
+	color: grey;
+	font-size: 35px;
+}
+.emo4{
+	color: green;
+	font-size: 35px;
+}
+.emo5{
+	color: blue;
+	font-size: 35px;
+}
+.emo6{
+	color: red;
+	font-size: 35px;
+}
+.MENU{
+	background-color: darkred;
+}
+.CV{
+	border: double;
+	width: 100%;
+}
+a{
+	color: black;
+font-weight: bold;
+}
+.cl{width: 100%;
+	background-color: white;
+}
